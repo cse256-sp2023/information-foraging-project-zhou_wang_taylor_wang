@@ -1,5 +1,5 @@
 ﻿# information-foraging
---- t1:
+ - t1:
 ["index.html", "curriculum_overview.html"]
 --- t2:
 ["index.html", "big_bears.html","sun_bears.html"]
