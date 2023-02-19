@@ -11,3 +11,25 @@
 - t4:
 
 ["index.html", "summer_camp.html"]
+
+
+
+
+
+
+
+
+- t8:
+
+["apply.html", "admission.html"]
+
+- t9:
+
+["apply.html", "admission.html", "tuition.html"]
+
+- t10:
+
+[
+
+- t11:
+["about.html", "communication.html"]
