@@ -1,0 +1,16 @@
+@import url("common.css");
+@import url("side_menu.css");
+
+.grid-item {
+    margin: 1.2em 0
+}
+
+.subtitle {
+    font-size: 1.4em;
+    margin-bottom: 0;
+}
+
+.description {
+    font-style: italic;
+    margin-bottom: 0;
+}

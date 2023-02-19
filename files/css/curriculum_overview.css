@@ -29,3 +29,7 @@ main li {
     padding-left: 5em;
     padding-right: 3em;
 }
+
+.grid-item {
+    margin: 2em 0
+}
