@@ -24,3 +24,8 @@ main li {
 .classroom p {
     font-size: 1.15em;
 }
+
+.indent-list {
+    padding-left: 5em;
+    padding-right: 3em;
+}
