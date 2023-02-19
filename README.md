@@ -1,36 +1,50 @@
 ﻿# information-foraging
-- t1:
+- t1 Math:
 
 ["index.html", "curriculum_overview.html"]
-- t2:
+
+- t2 School Day:
 
 ["index.html", "big_bears.html","sun_bears.html","bear_tracks.html"]
-- t3:
+
+- t3 Teacher Tenure:
 
 ["index.html", "bear_cubs.html","marsha_graeber.html", "bear_cubs.html","katie_loynd.html"]
-- t4:
+
+- t4 Summer Camp:
 
 ["index.html", "summer_camp.html"]
 
+- t5 Discipline:
 
+- t6 Spanish Song:
 
+- t7 Books:
 
+- t8 Admission-2:
 
+["index.html", "admission.html"]
 
+- t9 Deposit:
 
+["index.html", "tuition.html"]
 
-- t8:
+- t10 Personalized Help:
 
-["apply.html", "admission.html"]
+["index.html", "support.html"]
 
-- t9:
+- t11 Communication:
 
-["apply.html", "admission.html", "tuition.html"]
+["index.html", "communication.html"]
 
-- t10:
+- t12 Science:
 
-["parent_resources.html"]
+["index.html", "enrichment_programs.html"]
 
-- t11:
+- t13 Parent/Teacher Conferences:
 
-["about.html", "communication.html"]
+["index.html", "communication.html"]
+
+- t14 Orientation:
+
+["index.html", "support.html"]
