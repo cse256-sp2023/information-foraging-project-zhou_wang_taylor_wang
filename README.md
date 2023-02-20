@@ -21,11 +21,11 @@
 
 - t6 Spanish Song:
 
-["index.html", "classrooms.html"]
+["index.html", "enrichment_programs.html", "Formas-Shapes-.pdf"]
 
 - t7 Books:
 
-["teddy_bears.html", "teddy_bears_news.html"]
+["index.html", "teddy_bears.html", "teddy_bear_news.html", "TB-Newsletter-December-2.pdf"]
 
 - t8 Admission-2:
 
