@@ -1,4 +1,7 @@
 ﻿# information-foraging
+Site: https://cse256-sp2023.github.io/information-foraging-project-zhou_wang_taylor_wang/
+
+## tasks
 - t1 Math:
 
 ["index.html", "curriculum_overview.html"]
