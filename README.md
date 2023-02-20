@@ -17,9 +17,15 @@
 
 - t5 Discipline:
 
+["index.html", "parent_handbook.html"]
+
 - t6 Spanish Song:
 
+["index.html", "classrooms.html"]
+
 - t7 Books:
+
+["teddy_bears.html", "teddy_bears_news.html"]
 
 - t8 Admission-2:
 
