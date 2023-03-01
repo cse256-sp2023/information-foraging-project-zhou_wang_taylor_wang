@@ -66,6 +66,10 @@ main li {
     margin-bottom: 1em;
 }
 
+main h1 {
+    margin-bottom: 0;
+}
+
 .classroom {
     margin-top: 6em;
     margin-bottom: 1em;
