@@ -16,19 +16,19 @@ Site: https://cse256-sp2023.github.io/information-foraging-project-zhou_wang_tay
 
 - t4 Summer Camp:
 
-["index.html", "summer_camp.html"]
+["index.html", "summercamp_time.html"]
 
 - t5 Discipline:
 
-["index.html", "parent_handbook.html"]
+["index.html", "support.html"]
 
 - t6 Spanish Song:
 
-["index.html", "enrichment_programs.html", "Formas-Shapes-.pdf"]
+["index.html", "teddy_bears.html", "enrichment_programs.html"]
 
 - t7 Books:
 
-["index.html", "teddy_bears.html", "teddy_bear_news.html", "TB-Newsletter-December-2.pdf"]
+["index.html", "teddy_bears.html", "teddy_bear_news.html"]
 
 - t8 Admission-2:
 
@@ -56,4 +56,4 @@ Site: https://cse256-sp2023.github.io/information-foraging-project-zhou_wang_tay
 
 - t14 Orientation:
 
-["index.html", "support.html"]
+["index.html", "admission.html"]
