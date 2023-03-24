@@ -19,7 +19,7 @@ export function PutStudentPageLoadOperationsInsideThisStudentBody() {
     let header = document.getElementById("main-menu-container");
     
     // Get the offset position of the navbar
-      if (header) {
+    if (header) {
         let sticky = header.offsetTop;
     
         if (window.pageYOffset > sticky) {
