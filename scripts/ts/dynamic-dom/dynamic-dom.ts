@@ -19,14 +19,17 @@ export function PutStudentPageLoadOperationsInsideThisStudentBody() {
     let header = document.getElementById("main-menu-container");
     
     // Get the offset position of the navbar
-    let sticky = header.offsetTop;
+      if (header) {
+        let sticky = header.offsetTop;
     
-      if (window.pageYOffset > sticky) {
-        header.classList.add("sticky");
-      } else {
-        header.classList.remove("sticky");
+        if (window.pageYOffset > sticky) {
+          header.classList.add("sticky");
+        } else {
+          header.classList.remove("sticky");
+        }
       }
     }
+
 }
 
 export async function setupAll() {
