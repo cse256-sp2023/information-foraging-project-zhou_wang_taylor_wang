@@ -9,6 +9,24 @@ export function PutStudentPageLoadOperationsInsideThisStudentBody() {
     // TODO: Put all operations that you want to happen on ever page load in this function.
     // For example you could write: Sticky.setup()
     doSomething();
+
+    window.onscroll = function() {setupSticky()};
+
+    // Get the header
+
+    // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+  function setupSticky() {
+    let header = document.getElementById("main-menu-container");
+    
+    // Get the offset position of the navbar
+    let sticky = header.offsetTop;
+    
+      if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+      } else {
+        header.classList.remove("sticky");
+      }
+    }
 }
 
 export async function setupAll() {
