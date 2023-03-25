@@ -75,6 +75,18 @@
     font-size: 1.25em;
 }
 
+.classroom_info {
+    margin-bottom: 1em;
+}
+
+.classroom_info a {
+    margin-bottom: 0em;
+}
+
+.classroom_info span {
+    padding-left: 24px;
+}
+
 .column a.inline {
     color: #a51417;
     text-decoration: underline;
