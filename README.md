@@ -52,7 +52,7 @@ Site: https://cse256-sp2023.github.io/information-foraging-project-zhou_wang_tay
 
 - t13 Parent/Teacher Conferences:
 
-["index.html", "communication.html"]
+["index.html", "support.html", "communication.html"]
 
 - t14 Orientation:
 
