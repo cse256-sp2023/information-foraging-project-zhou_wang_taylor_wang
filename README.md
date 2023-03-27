@@ -16,11 +16,11 @@ Site: https://cse256-sp2023.github.io/information-foraging-project-zhou_wang_tay
 
 - t4 Summer Camp:
 
-["index.html", "summercamp_time.html"]
+["index.html", "summer_camp.html", "summercamp_time.html"]
 
 - t5 Discipline:
 
-["index.html", "support.html"]
+["index.html", "discipline.html"]
 
 - t6 Spanish Song:
 
@@ -56,4 +56,4 @@ Site: https://cse256-sp2023.github.io/information-foraging-project-zhou_wang_tay
 
 - t14 Orientation:
 
-["index.html", "admission.html"]
+["index.html", "support.html"]
